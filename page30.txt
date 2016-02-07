@@ -1,3 +1,10 @@
+Kaizen bord
+
+Om er zeker van te zijn dat de acties, waartoe het team gedurende de retrospective heeft besloten, ook worden uitgevoerd, schrijft het team de acties op Post-its en hangt ze op de muur.
+Als deze Post-its niet een logische plek kunnen krijgen op het gebruikelijke bord, maak dan een apart Retrospective Acties Kanban bord. (Ook wel Kaizen Board genoemd), waar je de voortgang kunt monitoren.
+Als je Avatars gebruikt, gebruik die dan op dit bord op dezelfde manier als op je gebruikelijke bord.
+
+
 Kaizen board
 
 To ensure that the actions decided upon during the retrospective are followed through, write down the actions on Post-its and bring them to the wall.
