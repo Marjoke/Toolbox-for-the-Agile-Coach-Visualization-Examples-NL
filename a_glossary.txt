@@ -10,8 +10,9 @@ Bottleneck ==> Knelpunt
 Daily Stand-up ==> Daily Stand-up
 Examples ==> voorbeelden
 policies ==> methodiek
-whiteboard ==> whiteboard
 Retrospectives ==> Retrospectives
+whiteboard ==> whiteboard
+
 
 
 
